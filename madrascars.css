@@ -1,0 +1,2055 @@
+@media only screen and (min-width:781px){
+#div{
+    width: auto;
+    height: 70px;
+    background-color: #F8F4E1;
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    
+   
+}
+#div1{
+    width:auto;
+    position: relative;
+    
+
+    
+    
+}
+#div2{
+    width:550px;
+    margin:-45px 0px 0px 380px;
+    position: relative;
+
+}
+#div3{
+    margin: -55px 0px 0px 850px;
+    width:auto;
+    position: relative;
+}
+#btn1{
+  width: 200px;
+  position: relative;
+}
+
+#madras{
+    font-family: "Lilita One", sans-serif;
+    font-size:50px;
+    font-style: normal;
+    margin: 5px 0px 0px 15px ;
+    background: linear-gradient( 45deg ,#8D493A  , #e99759,#e5d3a8,#8D493A );
+    -webkit-text-fill-color:transparent; 
+    -webkit-background-clip: text;
+    color:transparent;
+    
+}
+#btn2{
+    background-image: url("https://cdn-icons-png.flaticon.com/128/10278/10278857.png");
+  
+   
+}
+#btn3{
+    background-image: url("https://cdn-icons-png.flaticon.com/128/10727/10727988.png");
+
+  
+
+}
+#btn4{
+    background-image: url("https://cdn-icons-png.flaticon.com/128/667/667383.png");
+
+
+}
+.bicon{
+    width: 20px;
+    height: 20px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    padding: 3px;
+    border: none;
+    outline: none;
+    position: relative;
+   
+}
+.nb{
+  font-size: 25px;
+}
+li{
+    float: left;
+    list-style-type:none;
+    
+}
+#dropbtn {
+  background-color:transparent ;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  position: relative;
+
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #F8F4E1;
+  min-width: 260px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 3;
+  right:2%;
+}
+
+.dropdown-content a {
+  color:  #521c0f;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color:  #AF8F6F}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover #dropbtn {
+  background-color: none;
+}
+.a1
+{
+    margin: 0px 0px 0px 20px;
+    text-decoration: none;
+    color: #AF8F6F;
+}
+.a1:hover{
+  color: #521c0f;
+
+}
+a{
+   margin: 0px 0px 0px 20px;
+    text-decoration: none;
+    color: #AF8F6F;
+
+}
+a:hover{
+  color: #521c0f;
+
+}
+.car{
+  width:400px;
+  margin: 550px 0px 15px 20px;
+
+}
+#marutisuzuki{
+  margin: 50px 0px 15px 20px;
+}
+/*#car{
+  margin: 550px 0px 15px 20px;
+}
+#car1{
+  margin-left: 20px;
+}
+#car2{
+  margin: 550px 0px 15px 20px;
+}
+/*#div5{
+  width: 80%;
+  height: 460px;
+ 
+  position:absolute;
+  padding:center;
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  box-shadow: 1px 1px 1px 1px #8D493A;
+  border-top: #8D493A;
+
+}
+#div6
+{
+   width: 80%;
+  height: 460px;
+  margin-top: 5px;
+  
+  position:absolute;
+  padding:center;
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  box-shadow: 1px 1px 1px 1px #8D493A;
+  border-top: #8D493A;
+
+}*/
+.div4{
+    width: 80%;
+    height: 460px;
+    margin: 15px 0px 0px 0px;
+    position:absolute;
+    padding:center;
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    box-shadow: 1px 1px 1px 1px #8D493A;
+    border-top: #8D493A;
+}
+.div4::-webkit-scrollbar{
+   width: 0;
+}
+.div4 .item{
+    width: 440px;
+    height: 400px;
+    margin: 30px 0px 0px 75px;
+
+}
+
+
+.book {
+    position: relative;
+    border-radius: 10px;
+    width: 420px;
+    height: 400px;
+    background-color: whitesmoke;
+    -webkit-box-shadow: 1px 1px 12px #000;
+    box-shadow: 1px 1px 12px #000;
+    -webkit-transform: preserve-3d;
+    -ms-transform: preserve-3d;
+    transform: preserve-3d;
+    -webkit-perspective: 2000px;
+    perspective: 2000px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #000;
+   
+    
+  }
+  
+  .cover {
+    top: 0 !important;
+    position: absolute;
+    padding-bottom: 350px;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -webkit-transform-origin: 0;
+    -ms-transform-origin: 0;
+    transform-origin: 0;
+    -webkit-box-shadow: 1px 1px 12px #000;
+    box-shadow: 1px 2px 12px #000;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items:center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    
+  }
+  
+  .book:hover .cover {
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -webkit-transform: rotatey(-80deg);
+    -ms-transform: rotatey(-80deg);
+    transform: rotatey(-80deg);
+  }
+  
+  p {
+    font-size: 20px;
+    font-weight: bolder;
+    color: #030303;
+    margin: -365px 0px 0px 0px;
+  }
+ 
+.card {
+    position: relative;
+    width: 13.575em;
+    height: 14.5em;
+    border-radius: 10px;
+    box-shadow: 0px 1px 13px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: all 120ms;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    padding: 0.5em;
+    padding-bottom: 3.4em;
+  }
+  
+  .card::after {
+    content: "Add to Cart";
+    padding-top: 1.25em;
+    padding-left: 1.25em;
+    position: absolute;
+    left: 0;
+    bottom: -60px;
+    background: #00AC7C;
+    color: #fff;
+    height: 3.5em;
+    width: 100%;
+    transition: all 80ms;
+    font-weight: 600;
+    text-transform: uppercase;
+    opacity: 0;
+  }
+  
+  .card .title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    position: absolute;
+    left: 0.625em;
+    bottom: 1.875em;
+    font-weight: 400;
+    color: #000;
+  }
+  
+  .card .price {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 0.9em;
+    position: absolute;
+    left: 0.625em;
+    bottom: 0.625em;
+    color: #000;
+  }
+  
+  .card:hover::after {
+    bottom: 0;
+    opacity: 1;
+  }
+  
+  .card:active {
+    transform: scale(0.98);
+  }
+  
+  .card:active::after {
+    content: "Added !";
+    height: 3.125em;
+  }
+  
+  .text {
+    max-width: 95px;
+  }
+   .text a
+  {
+   
+    text-decoration: none;
+    color: #AF8F6F;
+  }
+  .text a:hover{
+  color: #521c0f;
+
+  }
+  
+  .image {
+    background: rgb(241, 241, 241);
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+  }
+ 
+#cover1{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/126463/s-presso-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover2{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover3{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/159099/swift-exterior-right-front-three-quarter.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover4{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/123185/grand-vitara-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover5{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover6{
+  background-image: url("https://imgd.aeplcdn.com/227x128/n/cw/ec/112839/glanza-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover7{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover8{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover9{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/137767/fortuner-legender-exterior-right-front-three-quarter-3.png?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover10{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/139739/land-cruiser-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover11{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/154483/vellfire-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover12{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/112839/glanza-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover13{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover14{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/131179/bolero-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover15{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover16{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover17{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/156405/xuv-3xo-exterior-right-front-three-quarter-33.jpeg?isig=0&wm=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover18{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/124839/thar-roxx-exterior-right-front-three-quarter-24.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover19{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover20{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover21{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/53123/tiguan-exterior-right-front-three-quarter-4.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover22{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/29628/polo-exterior-right-front-three-quarter-2.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover23{
+  background-image: url("https://imgd.aeplcdn.com/664x374/cw/ec/26563/Volkswagen-Vento-Right-Front-Three-Quarter-169094.jpg?wm=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover24{
+  background-image: url("https://imgd.aeplcdn.com/664x374/cw/ec/21603/Volkswagen-Ameo-Exterior-119016.jpg?wm=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover25{
+  background-image: url("https://imgd.aeplcdn.com/664x374/cw/ec/40369/Ford-EcoSport-Right-Front-Three-Quarter-159249.jpg?wm=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover26{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/37640/endeavour-exterior-right-front-three-quarter-149473.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover27{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/35463/figo-exterior-right-front-three-quarter-151689.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover28{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/35583/aspire-exterior-right-front-three-quarter-2.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover29{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/32698/freestyle-exterior-right-front-three-quarter-2.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover30{
+  background-image: url("https://imgd.aeplcdn.com/664x374/ec/E5/6E/10414/img/m/Ford-Classic-Right-Front-Three-Quarter-55665_l.jpg?v=201711021421&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+
+#cover31{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/139651/curvv-exterior-right-front-three-quarter.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover32{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover33{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-54.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover34{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-28.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover35{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/tata-altroz-exterior-18.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover36{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+#cover37{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/142515/elevate-exterior-right-front-three-quarter-21.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover38{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/45951/amaze-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover39{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/134287/city-exterior-right-front-three-quarter-77.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover40{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/143275/city-hybrid-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover41{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/134113/new-wr-v-exterior-left-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover42{
+  background-image: url("https://imgd.aeplcdn.com/664x374/cw/ec/19810/Honda-BRV-Exterior-119023.jpg?wm=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+#cover43{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/174611/windsor-ev-exterior-right-front-three-quarter.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover44{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover45{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/125193/comet-ev-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover46{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-13.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover47{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/51940/astor-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover48{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/129689/gloster-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover49{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/141119/triber-exterior-right-front-three-quarter-9.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover50{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/141125/kwid-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover51{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/141857/kiger-exterior-right-front-three-quarter-9.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover52{
+  background-image: url("https://imgd.aeplcdn.com/664x374/cw/ec/10448/Renault-Lodgy-Right-Front-Three-Quarter-73220.jpg?v=201711021421&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover53{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/144851/exter-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover54{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover55{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/141113/venue-exterior-right-front-three-quarter-16.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover56{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/121943/verna-exterior-right-front-three-quarter-101.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover57{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/157825/alcazar-facelift-exterior-right-front-three-quarter-10.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover58{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/150603/i20-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+.leftdash{
+  margin: -45px 10px 0px 1350px;
+  width:auto;
+ 
+ 
+}
+.btn{
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:35px;
+  height: 35px;
+  background-color: transparent;
+  border: none;
+  
+
+}
+/*#dash{
+  background-image: url("https://cdn-icons-png.flaticon.com/128/4709/4709861.png");
+
+}
+#profile{
+  background-image: url("https://cdn-icons-png.flaticon.com/128/5987/5987420.png");
+  
+  
+}
+#kart{
+  background-image: url("../sept/shopping.png");
+
+
+}*/
+
+.grid{
+  display: grid;
+  grid-template-columns: auto auto;
+  margin: -785px 0px 240px 1265px;
+  position: fixed;
+  top: auto;
+
+ 
+  
+  border: 3px black;
+  
+  
+  
+}
+.gbtn{
+  width: 140px;
+  height: 120px;
+  background-repeat: no-repeat;
+  background-color:transparent;
+ 
+
+}
+#pb{
+  
+  color: #521c0f;
+
+  
+}
+.pb{
+  margin: -830px 0px 0px 1320px;
+  position: fixed;
+  
+
+ 
+  
+
+}
+#gbtn{
+  background-image: url("https://pngimg.com/uploads/car_logo/small/car_logo_PNG1667.png");
+  background-size:contain;
+  background-position-y: 3px;
+  
+}
+#gbtn1{
+  background-image: url("https://pngimg.com/uploads/car_logo/small/car_logo_PNG1666.png");
+  background-position-y: 40px;
+  background-size: contain;
+  
+  
+}
+#gbtn2{
+  background-image: url("https://pngimg.com/uploads/car_logo/small/car_logo_PNG1665.png");
+  background-position-y: 40px;
+  background-size: contain;
+}
+#gbtn3{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/10/brands/logos/maruti-suzuki1647009823420.jpg?v=1647009823707&q=80");
+  background-size: cover;
+  background-position-x: -50px;
+  
+}
+#gbtn4{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/9/brands/logos/mahindra.jpg?v=1629973668273&q=80");
+  background-size: 170px;
+  
+  background-position: -17px 15px;
+}
+#gbtn5{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/16/brands/logos/tata.jpg?v=1629973276336&q=80");
+  background-size: 170px;
+  background-position: -17px 15px;
+}
+#gbtn6{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/7/brands/logos/honda.jpg?v=1630056209549&q=80");
+  background-size: 200px;
+  background-position: -30px 5px;
+}
+#gbtn7{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/72/brands/logos/mg.jpg?v=1631163895654&q=80");
+  background-position-x: -35px;
+  background-size: cover;
+}
+#gbtn8{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/45/brands/logos/renault.jpg?v=1630057266767&q=80");
+  background-position-x: -55px;
+}
+#gbtn9{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/8/brands/logos/hyundai.jpg?v=1629973193722&q=80");
+  background-size: 140px;
+  background-position-y: 20px;
+}
+
+
+
+
+::selection{
+  color: #8D493A;
+  background-color: #AF8F6F;
+}
+
+#slider{
+  overflow: hidden;
+  background-repeat: no-repeat;
+  width: 80%;
+  margin-top: 50px;
+ 
+
+}
+#slider figure{
+  position: relative;
+  width:500%;
+  margin: 0;
+ 
+  left :0;
+  animation: 20s slider infinite;
+}
+#slider figure img{
+  float: left;
+  width: 20%;
+  
+}
+
+@keyframes slider{
+  0%{
+    left : 0 ;
+
+  }
+  20%{
+    left : 0;
+  }
+  25%{
+    left:-100%;
+  }
+  45%{
+    left:-100%;
+  }
+  50%
+  {
+    left: -200%;
+  }
+  70%{
+    left: -200%;
+  }
+  95%{
+    left:-300%;
+  }
+  100%{
+    left: -400%;
+  }
+}
+
+.texta{
+  margin: 60px 0px 0px 20px;
+  width: 60%;
+  height: 400px;
+  font-size: 50px;
+  text-align: left-top;
+  
+  color: darkgrey;
+  border: 2px 2px 2px 1px black;
+  outline: 5px solid gray;
+
+}
+#fdiv{
+  width: 400px;
+
+}
+
+.addr{
+  margin: 5px 0px 0px -55px;
+  text-align: center;
+
+}
+#Review{
+  margin:550px 0px 0px 20px ;
+  text-decoration: blink;
+}
+.rating{
+  margin: 40px 0px 0px 100px;
+}
+
+.rating img{
+  width: 65px;
+  height: 65px;
+}
+/*#smiley{
+  background-image: url("../sept/happy.png");
+  background-size: 60px;
+ 
+  
+}*/
+
+
+
+
+#add{
+  width: 40px;
+  height: 40px;
+  margin: 0px 0px 0px -60px;
+
+  
+}
+.call{
+  margin: 10px 0px 0px 60px;
+  
+}
+.cont{
+  margin: 20px 0px 0px 20px;
+}
+.cimg{
+  width:40px;
+  height: 40px;
+}
+.fh{
+  color: #521c0f;
+  margin: 20px 0px 0px 20px ;
+}
+.fh1{
+  color: #521c0f;
+  margin: 0px 0px 0px 20px ;
+}
+.ffh{
+  display: inline;
+  gap: 50px;
+   color: #521c0f;
+   width: 300px;
+  height: 250px;
+  text-decoration: none;
+}
+.ffh a
+{
+   
+    text-decoration: none;
+    color: #AF8F6F;
+}
+.ffh a:hover{
+  color: #521c0f;
+
+}
+.ff2 a
+{
+   
+    text-decoration: none;
+    color: #AF8F6F;
+}
+.ff2 a:hover{
+  color: #521c0f;
+
+}
+.ff2{
+  justify-content: center;
+  margin: 20px 0px 0px 20px;
+  width: 300px;
+  height: 250px;
+  overflow: visible;
+}
+.copy{
+  margin: 350px 0px 0px -990px;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+}
+
+
+
+
+
+#footer{
+  width: 80%;
+  height: 450px;
+  background-color: #F8F4E1;
+  margin: 120px 0px 0px 0px;
+  display: grid;
+  grid-column: auto auto auto auto;
+  position: static;
+  display: flex;
+
+
+}
+}
+
+@media only screen and (max-width:780px){
+  
+#div{
+    width: 100%;
+    height: 170px;
+    background-color: #F8F4E1;
+    margin: 0px 0px 0px 0px;
+    
+    
+   
+}
+#div1{
+    width:auto;
+    
+
+    
+    
+}
+#div2{
+    width:350px;
+    margin:25px 0px 0px 15px
+
+}
+#div3{
+    margin: 15px 0px 0px -35px;
+    width:auto;
+    
+}
+.leftdash{
+  margin: -125px 10px 0px 270px;
+  width:auto;
+  display: block;
+ 
+ 
+}
+#btn1{
+  width: 117px;
+  
+}
+#btn{
+  width: 70px;
+}
+
+#madras{
+    font-family: "Lilita One", sans-serif;
+    font-size:50px;
+    font-style: normal;
+    margin: 5px 0px 0px 15px ;
+    background: linear-gradient( 45deg ,#8D493A  , #e99759,#e5d3a8,#8D493A );
+    -webkit-text-fill-color:transparent; 
+    -webkit-background-clip: text;
+    color:transparent;
+    
+}
+#btn2{
+    background-image: url("https://cdn-icons-png.flaticon.com/128/10278/10278857.png");
+  
+   
+}
+#btn3{
+    background-image: url("https://cdn-icons-png.flaticon.com/128/10727/10727988.png");
+
+  
+
+}
+#btn4{
+    background-image: url("https://cdn-icons-png.flaticon.com/128/667/667383.png");
+
+
+}
+.bicon{
+    width: 20px;
+    height: 20px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    padding: 3px;
+    border: none;
+    outline: none;
+   
+}
+.nb{
+  font-size: 18px;
+}
+li{
+    float: left;
+    list-style-type:none;
+    
+}
+#dropbtn {
+  background-color:transparent ;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #F8F4E1;
+  min-width: 260px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 3;
+  right:2%;
+}
+
+.dropdown-content a {
+  color:  #521c0f;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color:  #AF8F6F;color: #521c0f;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover #dropbtn {
+  background-color: none;
+}
+.a1
+{
+    margin: 0px 0px 0px 20px;
+    text-decoration: none;
+    color: #AF8F6F;
+}
+.a1:hover{
+  color: #521c0f;
+
+}
+a{
+   margin: 0px 0px 0px 20px;
+    text-decoration: none;
+    color: #AF8F6F;
+
+}
+a:hover{
+  color: #521c0f;
+
+}
+.car{
+  width:400px;
+  margin: 550px 0px 15px 20px;
+
+}
+#marutisuzuki{
+  margin: 550px 0px 15px 20px;
+}
+/*#car{
+  margin: 550px 0px 15px 20px;
+}
+#car1{
+  margin-left: 20px;
+}
+#car2{
+  margin: 550px 0px 15px 20px;
+}
+/*#div5{
+  width: 80%;
+  height: 460px;
+ 
+  position:absolute;
+  padding:center;
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  box-shadow: 1px 1px 1px 1px #8D493A;
+  border-top: #8D493A;
+
+}
+#div6
+{
+   width: 80%;
+  height: 460px;
+  margin-top: 5px;
+  
+  position:absolute;
+  padding:center;
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  box-shadow: 1px 1px 1px 1px #8D493A;
+  border-top: #8D493A;
+
+}*/
+.div4{
+    width: 100%;
+    height: 460px;
+    margin: 15px 0px 0px 0px;
+    position:absolute;
+    padding:center;
+    display: grid;
+    grid-template-columns: auto auto;
+    overflow-x: auto;
+    overflow-y: auto;
+    box-shadow: 1px 1px 1px 1px #8D493A;
+    border-top: #8D493A;
+}
+.div4::-webkit-scrollbar{
+   width: 0;
+}
+.div4 .item{
+    width: 440px;
+    height: 400px;
+    margin: 30px 0px 0px 35px;
+
+}
+
+
+
+.book {
+    position: relative;
+    border-radius: 10px;
+    width: 320px;
+    height: 300px;
+    background-color: whitesmoke;
+    -webkit-box-shadow: 1px 1px 12px #000;
+    box-shadow: 1px 1px 12px #000;
+    -webkit-transform: preserve-3d;
+    -ms-transform: preserve-3d;
+    transform: preserve-3d;
+    -webkit-perspective: 2000px;
+    perspective: 2000px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #000;
+   
+    
+  }
+  
+  .cover {
+    top: 0 !important;
+    position: absolute;
+    padding-bottom: 250px;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -webkit-transform-origin: 0;
+    -ms-transform-origin: 0;
+    transform-origin: 0;
+    -webkit-box-shadow: 1px 1px 12px #000;
+    box-shadow: 1px 2px 12px #000;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items:center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    
+  }
+  
+  .book:hover .cover {
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -webkit-transform: rotatey(-80deg);
+    -ms-transform: rotatey(-80deg);
+    transform: rotatey(-80deg);
+  }
+  
+  p {
+    font-size: 20px;
+    font-weight: bolder;
+    color: #030303;
+    margin: -365px 0px 0px 0px;
+  }
+ 
+.card {
+    position: relative;
+    width: 12.575em;
+    height: 10.5em;
+    border-radius: 10px;
+    box-shadow: 0px 1px 13px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: all 120ms;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    padding: 0.5em;
+    padding-bottom: 3.4em;
+  }
+  
+  .card::after {
+    content: "Add to Cart";
+    padding-top: 1.25em;
+    padding-left: 1.25em;
+    position: absolute;
+    left: 0;
+    bottom: -60px;
+    background: #00AC7C;
+    color: #fff;
+    height: 3.5em;
+    width: 100%;
+    transition: all 80ms;
+    font-weight: 600;
+    text-transform: uppercase;
+    opacity: 0;
+  }
+  
+  .card .title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: absolute;
+    left: 0.625em;
+    bottom: 1.875em;
+    font-weight: 400;
+    color: #000;
+  }
+  
+  .card .price {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 0.9em;
+    position: absolute;
+    left: 0.625em;
+    bottom: 0.625em;
+    color: #000;
+  }
+  
+  .card:hover::after {
+    bottom: 0;
+    opacity: 1;
+  }
+  
+  .card:active {
+    transform: scale(0.98);
+  }
+  
+  .card:active::after {
+    content: "Added !";
+    height: 3.125em;
+  }
+  
+  .text {
+    max-width: 125px;
+  }
+  .text a
+  {
+   
+    text-decoration: none;
+    color: #AF8F6F;
+  }
+.text a:hover{
+  color: #521c0f;
+
+  }
+  
+  .image {
+    background: rgb(241, 241, 241);
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+  }
+ 
+#cover1{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/126463/s-presso-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover2{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover3{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/159099/swift-exterior-right-front-three-quarter.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover4{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/123185/grand-vitara-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover5{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover6{
+  background-image: url("https://imgd.aeplcdn.com/227x128/n/cw/ec/112839/glanza-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover7{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover8{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover9{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/137767/fortuner-legender-exterior-right-front-three-quarter-3.png?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover10{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/139739/land-cruiser-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover11{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/154483/vellfire-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover12{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/112839/glanza-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover13{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover14{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/131179/bolero-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover15{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover16{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover17{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/156405/xuv-3xo-exterior-right-front-three-quarter-33.jpeg?isig=0&wm=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover18{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/124839/thar-roxx-exterior-right-front-three-quarter-24.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover19{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover20{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover21{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/53123/tiguan-exterior-right-front-three-quarter-4.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover22{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/29628/polo-exterior-right-front-three-quarter-2.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover23{
+  background-image: url("https://imgd.aeplcdn.com/664x374/cw/ec/26563/Volkswagen-Vento-Right-Front-Three-Quarter-169094.jpg?wm=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover24{
+  background-image: url("https://imgd.aeplcdn.com/664x374/cw/ec/21603/Volkswagen-Ameo-Exterior-119016.jpg?wm=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover25{
+  background-image: url("https://imgd.aeplcdn.com/664x374/cw/ec/40369/Ford-EcoSport-Right-Front-Three-Quarter-159249.jpg?wm=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover26{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/37640/endeavour-exterior-right-front-three-quarter-149473.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover27{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/35463/figo-exterior-right-front-three-quarter-151689.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover28{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/35583/aspire-exterior-right-front-three-quarter-2.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover29{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/32698/freestyle-exterior-right-front-three-quarter-2.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover30{
+  background-image: url("https://imgd.aeplcdn.com/664x374/ec/E5/6E/10414/img/m/Ford-Classic-Right-Front-Three-Quarter-55665_l.jpg?v=201711021421&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+
+#cover31{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/139651/curvv-exterior-right-front-three-quarter.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover32{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover33{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-54.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover34{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-28.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover35{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/tata-altroz-exterior-18.jpeg?q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover36{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+#cover37{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/142515/elevate-exterior-right-front-three-quarter-21.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover38{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/45951/amaze-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover39{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/134287/city-exterior-right-front-three-quarter-77.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover40{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/143275/city-hybrid-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover41{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/134113/new-wr-v-exterior-left-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover42{
+  background-image: url("https://imgd.aeplcdn.com/664x374/cw/ec/19810/Honda-BRV-Exterior-119023.jpg?wm=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+#cover43{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/174611/windsor-ev-exterior-right-front-three-quarter.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover44{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover45{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/125193/comet-ev-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover46{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-13.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover47{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/51940/astor-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover48{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/129689/gloster-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover49{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/141119/triber-exterior-right-front-three-quarter-9.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover50{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/141125/kwid-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover51{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/141857/kiger-exterior-right-front-three-quarter-9.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover52{
+  background-image: url("https://imgd.aeplcdn.com/664x374/cw/ec/10448/Renault-Lodgy-Right-Front-Three-Quarter-73220.jpg?v=201711021421&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover53{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/144851/exter-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover54{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover55{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/141113/venue-exterior-right-front-three-quarter-16.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover56{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/121943/verna-exterior-right-front-three-quarter-101.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover57{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/157825/alcazar-facelift-exterior-right-front-three-quarter-10.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#cover58{
+  background-image: url("https://imgd.aeplcdn.com/664x374/n/cw/ec/150603/i20-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+
+.btn{
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width:35px; 
+  height: 35px;
+  background-color: transparent;
+  border: none;
+  
+  
+
+}
+/*#dash{
+  background-image: url("https://cdn-icons-png.flaticon.com/128/4709/4709861.png");
+
+}
+#profile{
+  background-image: url("https://cdn-icons-png.flaticon.com/128/5987/5987420.png");
+  
+  
+}
+#kart{
+  background-image: url("../sept/shopping.png");
+
+
+}*/
+
+.grid{
+  display: grid;
+  grid-template-columns: auto auto auto  ;
+  margin: 85px 0px 240px 0px;
+  position: absolute;
+  top: auto;
+
+ 
+  
+  border: 3px black;
+  
+  
+  
+}
+.gbtn{
+  width: 100px;
+  height: 100px;
+  background-repeat: no-repeat;
+  background-color:transparent;
+ 
+
+}
+#pb{
+  
+  color: #521c0f;
+
+  
+}
+.pb{
+  margin: 55px 0px 20px 20px;
+  position: absolute;
+  
+  
+
+ 
+  
+
+}
+#gbtn{
+  background-image: url("https://pngimg.com/uploads/car_logo/small/car_logo_PNG1667.png");
+  background-size:cover;
+  background-position-y: 3px;
+  
+}
+#gbtn1{
+  background-image: url("https://pngimg.com/uploads/car_logo/small/car_logo_PNG1666.png");
+  background-position-y: 40px;
+  background-size: contain;
+  
+  
+}
+#gbtn2{
+  background-image: url("https://pngimg.com/uploads/car_logo/small/car_logo_PNG1665.png");
+  background-position-y: 40px;
+  background-size: contain;
+}
+#gbtn3{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/10/brands/logos/maruti-suzuki1647009823420.jpg?v=1647009823707&q=80");
+  background-size: cover;
+  background-position-x: -40px;
+  
+}
+#gbtn4{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/9/brands/logos/mahindra.jpg?v=1629973668273&q=80");
+  background-size: 130px;
+  
+  background-position: -17px 15px;
+}
+#gbtn5{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/16/brands/logos/tata.jpg?v=1629973276336&q=80");
+  background-size: 120px;
+  background-position: -10px 15px;
+}
+#gbtn6{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/7/brands/logos/honda.jpg?v=1630056209549&q=80");
+  background-size: 150px;
+  background-position: -25px 5px;
+}
+#gbtn7{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/72/brands/logos/mg.jpg?v=1631163895654&q=80");
+  background-position-x: -35px;
+  background-size: cover;
+}
+#gbtn8{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/45/brands/logos/renault.jpg?v=1630057266767&q=80");
+  background-position-x: -35px;
+  background-size: cover;
+}
+#gbtn9{
+  background-image: url("https://imgd.aeplcdn.com/0X0/n/cw/ec/8/brands/logos/hyundai.jpg?v=1629973193722&q=80");
+  background-size: 100px;
+  background-position-y: 20px;
+}
+
+
+
+
+::selection{
+  color: #8D493A;
+  background-color: #AF8F6F;
+}
+
+#slider{
+  overflow: hidden;
+  background-repeat: no-repeat;
+  width: 100%;
+  margin-top: 50px;
+ 
+
+}
+#slider figure{
+  position: relative;
+  width:500%;
+  margin: 0;
+ 
+  left :0;
+  animation: 20s slider infinite;
+}
+#slider figure img{
+  float: left;
+  width: 20%;
+  
+}
+
+@keyframes slider{
+  0%{
+    left : 0 ;
+
+  }
+  20%{
+    left : 0;
+  }
+  25%{
+    left:-100%;
+  }
+  45%{
+    left:-100%;
+  }
+  50%
+  {
+    left: -200%;
+  }
+  70%{
+    left: -200%;
+  }
+  95%{
+    left:-300%;
+  }
+  100%{
+    left: -400%;
+  }
+}
+
+.texta{
+  margin: 60px 0px 0px 20px;
+  width: 70%;
+  height: 200px;
+  font-size: 20px;
+  text-align: left-top;
+  
+  color: darkgrey;
+  border: 2px 2px 2px 1px black;
+  outline: 5px solid gray;
+
+}
+#fdiv{
+  width: 500px;
+
+}
+
+.addr{
+  margin: 5px 0px 0px -145px;
+  text-align: center;
+
+}
+#Review{
+  margin:550px 0px 0px 20px ;
+  text-decoration: blink;
+}
+#add{
+  width: 40px;
+  height: 40px;
+  margin: 0px 0px 0px -60px;
+
+  
+}
+.call{
+  margin: 10px 0px 0px 60px;
+}
+.cont{
+  margin: 20px 0px 0px 20px;
+}
+.cimg{
+  width:40px;
+  height: 40px;
+}
+.fh{
+  color: #521c0f;
+  margin: 20px 0px 0px 20px ;
+}
+.ffh{
+  display: inline;
+    gap: 50px;
+   color: #521c0f;
+   width: 200px;
+  height: 150px;
+  margin: 320px 0px 0px -490px ;
+  z-index: 4;
+
+}
+.ffh a
+{
+   
+    text-decoration: none;
+    color: #AF8F6F;
+}
+.ffh a:hover{
+  color: #521c0f;
+
+}
+.ff2 a
+{
+   
+    text-decoration: none;
+    color: #AF8F6F;
+}
+.ff2 a:hover{
+  color: #521c0f;
+
+}
+.ff2{
+  justify-content: center;
+  margin: 340px 0px 0px 0px;
+  width: 150px;
+  height: 250px;
+  overflow: visible;
+}
+.copy{
+  margin: 550px 0px 0px -350px;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+}
+
+
+
+
+
+#footer{
+  width: 100%;
+  height: 750px;
+  background-color: #F8F4E1;
+  margin: 120px 0px 0px 0px;
+  display: inline-block;
+  
+ 
+  display: flex;
+
+
+}
+
+  
+}
+
+

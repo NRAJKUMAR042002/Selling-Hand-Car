@@ -1,0 +1,30 @@
+form{
+    width: 30%;
+    background-color: whitesmoke;
+    margin: 50px 250px 200px 450px;
+    text-align: center;
+    padding: 30px;
+    height:540px;
+    border-radius: 30px;
+    
+    
+
+
+}
+
+body{
+    background-color:  #F8F4E1;
+}
+.name {
+    margin: 20px 0px 0px -100px;
+
+}
+ .email {
+    margin: 20px 0px 0px -110px;
+ }
+.mobile{
+    margin: 20px 0px 0px -70px;
+}
+.pw{
+    margin: 20px 0px 0px -100px;
+}

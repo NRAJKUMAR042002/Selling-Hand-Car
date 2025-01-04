@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>javascript</title>
+</head>
+<body>
+	<p id="demo"></p>
+	<p id="sample"></p>
+	<h3 id="demo1"></h3>
+	<h1 id="demo2"></h1>
+	<h2 id="sample1"></h2>
+	<h3 id="demo3"></h3>
+	<h2 id="demo4"></h2>
+	<h3 id="demo5"></h3>
+	<script type="text/javascript">
+		const myarr=['raj','kumar','vidhya','harshika','diva'];
+		const myarr1=[2, 3, 5, 7, 9, 11];
+		const myarr2=[2,3,4,5,7,6,8,10,19];
+		const myarr3=[6,9,8,70,6,9,4,31,23];
+		let len=myarr.length;
+		let str=myarr.toString();
+		let ji=myarr.join('$');
+		let str1=myarr;
+		let sli=myarr.slice(1);
+		let str2 = myarr.slice(1,3);
+		let str3=myarr.slice(1,-3);
+		let strr=myarr1.splice(4,1,13);
+		let str4=myarr1.splice();
+		//let str4=myarr1.splice(2,3);
+		//let str5=myarr1.splice(2,3,5);
+		let str5=myarr2.push(12);
+		let str6=myarr2.pop();
+		let str7=myarr3.shift();
+		let str8=myarr3.unshift(60);
+		
+
+		delete myarr3[3];
+
+		const arr=myarr.concat(myarr1,myarr3,myarr2);
+
+		const arr1=myarr.copyWithin(2,0);
+		const arr2=myarr.copyWithin(2,2,1);
+
+
+		
+
+
+		document.getElementById("demo").innerHTML=len;
+		document.getElementById("sample").innerHTML=str;
+		document.getElementById("demo1").innerHTML=ji;
+		document.getElementById('demo2').innerHTML=str1+"<br>"+sli+"<br>"+str2+"<br>"+str3;
+		document.getElementById('sample1').innerHTML=strr+"<br>"+str4;
+		document.getElementById('demo3').innerHTML=str5+"<br>"+myarr2+"<br>"+str6+"<br>"+str7+"<br>"+myarr3;
+
+		document.getElementById('demo4').innerHTML=arr;
+		document.getElementById('demo5').innerHTML=arr1+"<br>"+arr2;
+	</script>
+
+</body>
+</html>
